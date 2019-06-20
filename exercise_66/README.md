@@ -58,6 +58,6 @@ Be empowered:  the entire internet is now our data input.  When data is encoded 
 [CSS selectors]: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors
 [Nokogiri]: http://www.nokogiri.org/
 [Nokogiri installation]: http://www.nokogiri.org/tutorials/installing_nokogiri.html
-[nokogiri tutorials]: http://www.nokogiri.org/tutorials/
+[nokogiri tutorials]: https://nokogiri.org/tutorials/parsing_an_html_xml_document.html
 [structured documents]: https://en.wikipedia.org/wiki/Structured_document
 [web scraping]: https://en.wikipedia.org/wiki/Web_scraping
